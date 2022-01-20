@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="editors-xtd" method="upgrade">
+	<name>shortcode</name>
+	<author>lzr</author>
+	<creationDate>2021.1</creationDate>
+	<description>短代码插件</description>
+	 <files>
+        <filename plugin="shortcode">shortcode.php</filename>
+    </files>
+</extension>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="system" method="upgrade">
+	<name>ShorCode-analyze解析插件</name>
+	<author>lzr</author>
+	<creationDate>2021 7.12</creationDate>
+	<description>ShorCode解析插件</description>
+	<files>
+		<filename plugin="analyzelogic">analyzelogic.php</filename>
+		<filename>config.php</filename>
+		<folder>code</folder>
+	</files>
+</extension>
